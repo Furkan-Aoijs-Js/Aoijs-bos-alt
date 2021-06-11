@@ -4,3 +4,5 @@ const bot = new Aoijs.Bot({
   token: process.env.TOKEN,
   prefix: "!"
 });
+bot.onMessage();
+bot.loadCommands(`./komutlar/`);
