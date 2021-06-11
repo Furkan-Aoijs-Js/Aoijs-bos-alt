@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "aoi.js": "^1.0.0"
+    },
+  "engines": {
+    "node": "12.x"
+  }
+} 
